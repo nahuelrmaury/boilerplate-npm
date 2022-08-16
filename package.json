@@ -1,6 +1,6 @@
 {
-	"author": "Nahuel Rodriguez Maury",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Nahuel Rodriguez Maury",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
